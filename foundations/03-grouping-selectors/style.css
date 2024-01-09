@@ -1,0 +1,17 @@
+/* css */
+
+.initial, .countered {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+.initial {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+
+.countered {
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 0%, 0%);
+}
