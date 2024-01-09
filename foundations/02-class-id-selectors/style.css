@@ -1,0 +1,22 @@
+.odds {
+    background-color: rgb(214, 153, 153);
+    font-size: 18px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.medium-font-adjustment {
+    font-size: 24px;
+}
+
+#segunda {
+    color: rgb(0, 0, 235);
+    font-size: 36px;
+    font-family: ubuntu;
+}
+
+#cuarta {
+    background-color: rgb(144, 238, 144);
+    font-weight: 700;
+    font-family: ubuntu;
+}
